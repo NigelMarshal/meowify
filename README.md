@@ -6,6 +6,17 @@ Transform the mundane human language of any webpage into the superior and univer
 
 Because why not? Enhance readability, reduce stress, and finally make your website accessible to cats. (W3Cats)
 
+
+**Before:**
+
+<img width="1286" alt="Screenshot 2024-04-21 at 11 01 41 PM" src="https://github.com/NigelMarshal/meowify/assets/11574237/5f57546c-e3c9-45f1-9553-4803d61286c0">
+
+**After:**
+
+<img width="1288" alt="Screenshot 2024-04-21 at 11 01 49 PM" src="https://github.com/NigelMarshal/meowify/assets/11574237/13120877-d9b1-4ec7-81ae-2aa0ef0897bc">
+
+
+
 ## Features
 
 - 🐾 **Universal Translation** - Converts all English words to "Meow". i18n watch out!
