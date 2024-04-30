@@ -25,7 +25,7 @@ Because why not? Enhance readability, reduce stress, and finally make your websi
 
 ## Installation
 
-Meowify is currently available as a Chrome extension. To install, follow these steps:
+Meowify is currently available as a [chrome extension](https://chromewebstore.google.com/detail/meowify/pafcljcamickajmfhgadcfflnennonop). To install locally, follow these steps:
 
 1. Clone this repository or download the ZIP file.
 2. Open Chrome and navigate to `chrome://extensions/`.
